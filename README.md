@@ -1,7 +1,7 @@
 <h1 align="center">AralKada</h1>
 
 <p align="center">
-  <em>"Aral araw-araw, kasama ang solid mong barkada"</em> — The all-in-one AI academic companion for Filipino students.
+  <em>"Sa AralKada ika'y Aarangkada"</em> 
 </p>
 
 <p align="center">
