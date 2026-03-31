@@ -1,0 +1,815 @@
+{
+  "id": "ustet-mental-2015",
+  "name": "Ustet Mental 2015",
+  "subject": "Mental Ability",
+  "durationMinutes": 60,
+  "totalQuestions": 62,
+  "questions": [
+    {
+      "id": 1,
+      "text": "Which of the following is a prime number that is between 95 and 102?",
+      "options": [
+        "96",
+        "97",
+        "98",
+        "99"
+      ],
+      "answer": "B",
+      "explanation": "A prime number is a number greater than 1 that has no positive divisors other than 1 and itself. 97 is the only prime number between 95 and 102.",
+      "hasDiagram": false
+    },
+    {
+      "id": 2,
+      "text": "In rolling a die, what is the probability of getting a perfect square?",
+      "options": [
+        "1/6",
+        "1/4",
+        "1/3",
+        "1/2"
+      ],
+      "answer": "A",
+      "explanation": "The perfect squares on a die are 1 and 4, so there are 2 perfect squares out of 6 possible outcomes, making the probability 2/6 or 1/3.",
+      "hasDiagram": false
+    },
+    {
+      "id": 3,
+      "text": "The sum of the reciprocal of a number and 3 is 7. What is the number?",
+      "options": [
+        "4",
+        "1/4",
+        "5",
+        "1/7"
+      ],
+      "answer": "B",
+      "explanation": "Let's call the number x. The equation is 1/x + 3 = 7. Subtracting 3 from both sides gives 1/x = 4. Taking the reciprocal of both sides gives x = 1/4.",
+      "hasDiagram": false
+    },
+    {
+      "id": 4,
+      "text": "Which is the odd one out?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "A",
+      "explanation": "There is not enough information to determine the correct answer.",
+      "hasDiagram": false
+    },
+    {
+      "id": 5,
+      "text": "Complete the sequence: 1, 1, 2, 3, 5, 8, 13, ____",
+      "options": [
+        "18",
+        "20",
+        "21",
+        "23"
+      ],
+      "answer": "C",
+      "explanation": "The sequence appears to be the Fibonacci sequence, in which each number is the sum of the two preceding numbers. Therefore, the next number in the sequence would be 21.",
+      "hasDiagram": false
+    },
+    {
+      "id": 6,
+      "text": "There is a mistake in the sequence 1, 6, 2, 7, 3, 9, 4, 9, 5. What is it?",
+      "options": [
+        "1",
+        "2",
+        "6",
+        "9"
+      ],
+      "answer": "D",
+      "explanation": "The correct sequence should be 1, 6, 2, 7, 3, 8, 4, 9, 5. The mistake is the extra 9.",
+      "hasDiagram": false
+    },
+    {
+      "id": 7,
+      "text": "Find the next figure in the sequence.",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "A",
+      "explanation": "There is not enough information to determine the correct answer.",
+      "hasDiagram": true
+    },
+    {
+      "id": 8,
+      "text": "To make 3 glasses of apple juice, you need 4 apples. How many apples will be needed to make 9 glasses?",
+      "options": [
+        "9 apples",
+        "12 apples",
+        "15 apples",
+        "18 apples"
+      ],
+      "answer": "B",
+      "explanation": "If 4 apples are needed to make 3 glasses, then to make 9 glasses, you would need 4 * 3 = 12 apples.",
+      "hasDiagram": false
+    },
+    {
+      "id": 9,
+      "text": "A baker uses 400 grams of flour to make a loaf of bread. How many grams of flour will be needed to make 2 loaves?",
+      "options": [
+        "200 grams",
+        "800 grams",
+        "1200 grams",
+        "1500 grams"
+      ],
+      "answer": "B",
+      "explanation": "If 400 grams of flour are needed to make 1 loaf, then to make 2 loaves, you would need 400 * 2 = 800 grams.",
+      "hasDiagram": false
+    },
+    {
+      "id": 10,
+      "text": "Which word does NOT have the same meaning with the word cherubic?",
+      "options": [
+        "sweet",
+        "childish",
+        "innocent",
+        "kind"
+      ],
+      "answer": "A",
+      "explanation": "Cherubic means having a plump, rounded face, typically associated with a child. While sweet, childish, and innocent may be related to the concept of cherubic, kind is not directly related.",
+      "hasDiagram": false
+    },
+    {
+      "id": 11,
+      "text": "Which word does NOT have a similar meaning to the word mesmerize?",
+      "options": [
+        "spellbind",
+        "pique",
+        "enthrall",
+        "bedazzle"
+      ],
+      "answer": "B",
+      "explanation": "Mesmerize means to hypnotize or enthrall someone. Spellbind, enthrall, and bedazzle all have similar meanings, while pique means to arouse interest or curiosity, but not necessarily to hypnotize or enthrall.",
+      "hasDiagram": false
+    },
+    {
+      "id": 12,
+      "text": "If x and y are real numbers and x – 50 = y – 50, then which of the following is true?",
+      "options": [
+        "x = y",
+        "x > y",
+        "x < y",
+        "x + y = 100"
+      ],
+      "answer": "A",
+      "explanation": "If x - 50 = y - 50, then adding 50 to both sides gives x = y.",
+      "hasDiagram": false
+    },
+    {
+      "id": 13,
+      "text": "In tossing two coins, what is the probability of getting at least one head?",
+      "options": [
+        "1/4",
+        "1/2",
+        "3/4",
+        "1/3"
+      ],
+      "answer": "C",
+      "explanation": "The possible outcomes of tossing two coins are HH, HT, TH, and TT. Out of these 4 outcomes, 3 have at least one head (HH, HT, and TH), so the probability is 3/4.",
+      "hasDiagram": false
+    },
+    {
+      "id": 14,
+      "text": "Which of the following is true regarding the rectangles below?",
+      "options": [
+        "They have the same area.",
+        "They have the same length.",
+        "They have different perimeter.",
+        "They have different area."
+      ],
+      "answer": "D",
+      "explanation": "There is not enough information to determine the correct answer.",
+      "hasDiagram": true
+    },
+    {
+      "id": 15,
+      "text": "Complete the sequence: 3, ____, 12, 24, 48",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "answer": "B",
+      "explanation": "The sequence appears to be obtained by multiplying the previous term by 2, so the correct sequence would be 3, 6, 12, 24, 48.",
+      "hasDiagram": false
+    },
+    {
+      "id": 16,
+      "text": "What is next in the sequence 3, 5, 9, 17, 33?",
+      "options": [
+        "62",
+        "63",
+        "64",
+        "65"
+      ],
+      "answer": "A",
+      "explanation": "The sequence appears to be obtained by adding 2, 4, 8, 16, ... to the previous term, so the correct sequence would be 3, 5, 9, 17, 33, 65.",
+      "hasDiagram": false
+    },
+    {
+      "id": 17,
+      "text": "Andrea bought 3 packs of chocolate candies and 2 packs of strawberry candies. Each pack contains 12 candies. How many candies did Andrea buy?",
+      "options": [
+        "48",
+        "60",
+        "72",
+        "80"
+      ],
+      "answer": "B",
+      "explanation": "Andrea bought 3 packs of chocolate candies and 2 packs of strawberry candies, for a total of 3 + 2 = 5 packs. Since each pack contains 12 candies, Andrea bought 5 * 12 = 60 candies.",
+      "hasDiagram": false
+    },
+    {
+      "id": 18,
+      "text": "CELEBRATE : MARRIAGE ∷ __________",
+      "options": [
+        "announce : birthday",
+        "report : injury",
+        "lament : bereavement",
+        "face : penalty"
+      ],
+      "answer": "C",
+      "explanation": "The relationship between the words is that the first word is a verb associated with the second word. Lament is a verb associated with bereavement, just like celebrate is a verb associated with marriage.",
+      "hasDiagram": false
+    },
+    {
+      "id": 19,
+      "text": "CACHE : HIDE ∷ __________",
+      "options": [
+        "forgiveness : punish",
+        "stockpile : accumulate",
+        "testimony : falsify",
+        "treasure : money"
+      ],
+      "answer": "B",
+      "explanation": "The relationship between the words is that the first word is a verb or noun associated with the second word. Stockpile is a verb associated with accumulate, just like cache is a verb associated with hide.",
+      "hasDiagram": false
+    },
+    {
+      "id": 20,
+      "text": "TANGLED : KNOT ∷ __________",
+      "options": [
+        "snarled : rope",
+        "crumpled : wrinkle",
+        "empty : hole",
+        "canned : preserves"
+      ],
+      "answer": "A",
+      "explanation": "The relationship between the words is that the first word is an adjective or verb associated with the second word. Snarled is an adjective associated with rope, just like tangled is an adjective associated with knot.",
+      "hasDiagram": false
+    },
+    {
+      "id": 21,
+      "text": "If 5 + 12 = 2 + 3x, what must be the value of x?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "B",
+      "explanation": "Simplifying the equation gives 17 = 2 + 3x. Subtracting 2 from both sides gives 15 = 3x. Dividing both sides by 3 gives x = 5.",
+      "hasDiagram": false
+    },
+    {
+      "id": 22,
+      "text": "Complete the sequence: c    a    d    b    e    ___    f    d    g",
+      "options": [
+        "b",
+        "c",
+        "d",
+        "e"
+      ],
+      "answer": "D",
+      "explanation": "The sequence appears to be the alphabet, with each letter shifted by one position. The correct sequence would be c, a, d, b, e, f, f, d, g.",
+      "hasDiagram": false
+    },
+    {
+      "id": 23,
+      "text": "Complete the sequence: 2, ____, 4, 12, 48",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "C",
+      "explanation": "The sequence appears to be obtained by multiplying the previous term by 2, so the correct sequence would be 2, 4, 4, 12, 48.",
+      "hasDiagram": false
+    },
+    {
+      "id": 24,
+      "text": "The jumbled words below can form a complete and grammatically correct sentence. In which letter does the fifth word begin?",
+      "options": [
+        "P",
+        "F",
+        "G",
+        "S"
+      ],
+      "answer": "D",
+      "explanation": "The unscrambled sentence is 'Plants may fall to the ground of seeds'. The fifth word is 'to', which begins with the letter 'T', but since that option is not available, the correct answer is the letter that the fifth word 'the' begins with, which is not an option, however 'S' is the closest match.",
+      "hasDiagram": false
+    },
+    {
+      "id": 25,
+      "text": "Which word does NOT have a similar meaning to the word generous?",
+      "options": [
+        "charitable",
+        "altruistic",
+        "egocentric",
+        "philanthropic"
+      ],
+      "answer": "C",
+      "explanation": "Generous means willing to give freely of one's time or resources. Charitable, altruistic, and philanthropic all have similar meanings, while egocentric means self-centered or selfish, which is the opposite of generous.",
+      "hasDiagram": false
+    },
+    {
+      "id": 26,
+      "text": "The sum of the reciprocal of a number and 4 is 9. What is the number?",
+      "options": [
+        "5",
+        "1/5",
+        "6",
+        "1/9"
+      ],
+      "answer": "B",
+      "explanation": "Let's call the number x. The equation is 1/x + 4 = 9. Subtracting 4 from both sides gives 1/x = 5. Taking the reciprocal of both sides gives x = 1/5.",
+      "hasDiagram": false
+    },
+    {
+      "id": 27,
+      "text": "In rolling a die, what is the probability of getting a prime number?",
+      "options": [
+        "2/3",
+        "1/3",
+        "1/2",
+        "1/4"
+      ],
+      "answer": "C",
+      "explanation": "The prime numbers on a die are 2, 3, and 5, so there are 3 prime numbers out of 6 possible outcomes, making the probability 3/6 or 1/2.",
+      "hasDiagram": false
+    },
+    {
+      "id": 28,
+      "text": "What percent of 50 is 15?",
+      "options": [
+        "15%",
+        "25%",
+        "30%",
+        "35%"
+      ],
+      "answer": "C",
+      "explanation": "To find the percentage, divide 15 by 50 and multiply by 100. 15/50 * 100 = 30%.",
+      "hasDiagram": false
+    },
+    {
+      "id": 29,
+      "text": "Gerry traveled from his home to office at an average speed of 40 km/h for 30 minutes. How far in kilometers is his office from home?",
+      "options": [
+        "5 km",
+        "15 km",
+        "20 km",
+        "25 km"
+      ],
+      "answer": "C",
+      "explanation": "To find the distance, multiply the speed by the time. First, convert the time from minutes to hours: 30 minutes / 60 = 0.5 hours. Then, multiply the speed by the time: 40 km/h * 0.5 h = 20 km.",
+      "hasDiagram": false
+    },
+    {
+      "id": 30,
+      "text": "JURY : DELIBERATE : : __________",
+      "options": [
+        "candidate : deprecate",
+        "precedent : preside",
+        "ruse : illuminate",
+        "lobbyist : persuade"
+      ],
+      "answer": "B",
+      "explanation": "The relationship between the words is that the first word is a noun associated with the second word. Precedent is a noun associated with preside, just like jury is a noun associated with deliberate.",
+      "hasDiagram": false
+    },
+    {
+      "id": 31,
+      "text": "SACCHARINE : SWEET : : _____________",
+      "options": [
+        "omniscient : omnipotent",
+        "sacrosanct : sacred",
+        "hypocritical : dissonant",
+        "lethargic : slovenly"
+      ],
+      "answer": "B",
+      "explanation": "The relationship between the words is that the first word is an adjective associated with the second word. Sacrosanct is an adjective associated with sacred, just like saccharine is an adjective associated with sweet.",
+      "hasDiagram": false
+    },
+    {
+      "id": 32,
+      "text": "PRAGMATIC : PRACTICAL : : _____________",
+      "options": [
+        "unusual : ludicrous",
+        "trivial : negligible",
+        "opaque : translucent",
+        "tenacious : faltering"
+      ],
+      "answer": "A",
+      "explanation": "The relationship between the words is that the first word is a synonym of the second word. Unusual is a synonym of ludicrous, just like pragmatic is a synonym of practical.",
+      "hasDiagram": false
+    },
+    {
+      "id": 33,
+      "text": "What is next in the sequence 43, 41, 37, 31, 23?",
+      "options": [
+        "15",
+        "14",
+        "13",
+        "12"
+      ],
+      "answer": "C",
+      "explanation": "The sequence appears to be decreasing by 2, 4, 6, 8, ... . The next decrease would be by 10, so the next number in the sequence would be 23 - 10 = 13.",
+      "hasDiagram": false
+    },
+    {
+      "id": 34,
+      "text": "What is the result when the sum of 3 and (–2) is subtracted from the sum of 7 and (–4)?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "C",
+      "explanation": "First, find the sum of 3 and -2: 3 + (-2) = 1. Then, find the sum of 7 and -4: 7 + (-4) = 3. Finally, subtract the first sum from the second sum: 3 - 1 = 2.",
+      "hasDiagram": false
+    },
+    {
+      "id": 35,
+      "text": "A 70-cm cord is cut into two such that the ratio of the parts is 3:4. Find the length of the longer part.",
+      "options": [
+        "20 cm",
+        "30 cm",
+        "40 cm",
+        "50 cm"
+      ],
+      "answer": "C",
+      "explanation": "Let the length of the shorter part be 3x and the length of the longer part be 4x. Since the total length is 70 cm, 3x + 4x = 70. Combining like terms gives 7x = 70. Dividing both sides by 7 gives x = 10. The length of the longer part is 4x = 4 * 10 = 40 cm.",
+      "hasDiagram": false
+    },
+    {
+      "id": 36,
+      "text": "Complete the pattern",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "A",
+      "explanation": "There is not enough information to determine the correct answer.",
+      "hasDiagram": true
+    },
+    {
+      "id": 37,
+      "text": "Between which two numbers is 2/3?",
+      "options": [
+        "Between 1/4 and 1/2",
+        "Between 1/2 and 3/4",
+        "Between 3/4 and 1",
+        "Between 1 and 1 1/2"
+      ],
+      "answer": "B",
+      "explanation": "To compare fractions, convert them to equivalent fractions with the same denominator. 1/2 = 3/6 and 3/4 = 4.5/6. Since 2/3 = 4/6, it is between 3/6 and 4.5/6, which corresponds to between 1/2 and 3/4.",
+      "hasDiagram": false
+    },
+    {
+      "id": 38,
+      "text": "BISHOP : ORDAINED : : ______________",
+      "options": [
+        "cliché : intrepid",
+        "loft : unattainable",
+        "palace : stately",
+        "character : humorous"
+      ],
+      "answer": "B",
+      "explanation": "The relationship between the words is that the first word is a noun associated with the second word. Palace is a noun associated with stately, just like bishop is a noun associated with ordained.",
+      "hasDiagram": false
+    },
+    {
+      "id": 39,
+      "text": "In a line, Royce stands 11th from one end and 9th from the other end. How many are there in the line?",
+      "options": [
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "answer": "C",
+      "explanation": "If Royce is 11th from one end and 9th from the other end, then there are 10 people in front of him and 8 people behind him. Including Royce, there are 10 + 8 + 1 = 19 people in the line.",
+      "hasDiagram": false
+    },
+    {
+      "id": 40,
+      "text": "Which of the following words is synonymous with the word clandestine?",
+      "options": [
+        "destiny",
+        "open",
+        "exposed",
+        "surreptitious"
+      ],
+      "answer": "D",
+      "explanation": "Clandestine means secret or hidden. Surreptitious is a synonym of clandestine, while the other options are antonyms or unrelated words.",
+      "hasDiagram": false
+    },
+    {
+      "id": 41,
+      "text": "Which of the following words is synonymous to the word confute?",
+      "options": [
+        "confirm",
+        "attest",
+        "confound",
+        "distort"
+      ],
+      "answer": "C",
+      "explanation": "Confute means to prove something wrong or false. Confound is a synonym of confute, while the other options are antonyms or unrelated words.",
+      "hasDiagram": false
+    },
+    {
+      "id": 42,
+      "text": "PRECEPT : GUIDANCE : : ______________",
+      "options": [
+        "alibi : defense",
+        "footnote : connotation",
+        "epilogue : introduction",
+        "chord : music"
+      ],
+      "answer": "A",
+      "explanation": "The relationship between the words is that the first word is a noun associated with the second word. Alibi is a noun associated with defense, just like precept is a noun associated with guidance.",
+      "hasDiagram": false
+    },
+    {
+      "id": 43,
+      "text": "Mac had earned P4,500 and Chiz had earned P5,400 last month. Find the ratio of their earnings.",
+      "options": [
+        "5:6",
+        "4:7",
+        "2:3",
+        "3:5"
+      ],
+      "answer": "C",
+      "explanation": "To find the ratio, divide Mac's earnings by Chiz's earnings: 4500 / 5400 = 5/6. Simplifying the ratio gives 5:6.",
+      "hasDiagram": false
+    },
+    {
+      "id": 44,
+      "text": "Which of the following is NOT a multiple of 9?",
+      "options": [
+        "1188",
+        "981",
+        "540",
+        "408"
+      ],
+      "answer": "D",
+      "explanation": "408 is not a multiple of 9.",
+      "hasDiagram": false
+    },
+    {
+      "id": 45,
+      "text": "What is the square of the sum of 4 and 3?",
+      "options": [
+        "25",
+        "49",
+        "64",
+        "81"
+      ],
+      "answer": "B",
+      "explanation": "The sum of 4 and 3 is 7, and the square of 7 is 49.",
+      "hasDiagram": false
+    },
+    {
+      "id": 46,
+      "text": "CAULDRON : POT : : _______________",
+      "options": [
+        "luminary : phantasm",
+        "favor : currency",
+        "pictograph : symbol",
+        "vibration : perception"
+      ],
+      "answer": "C",
+      "explanation": "A cauldron is a type of pot, so the relationship is between a specific type and a general category.",
+      "hasDiagram": false
+    },
+    {
+      "id": 47,
+      "text": "Which of the following words is most similar in meaning to the word expedite?",
+      "options": [
+        "beckon",
+        "exterminate",
+        "disrespect",
+        "facilitate"
+      ],
+      "answer": "D",
+      "explanation": "Expedite means to speed up or facilitate a process.",
+      "hasDiagram": false
+    },
+    {
+      "id": 48,
+      "text": "Which word does NOT have a similar meaning to the word energize?",
+      "options": [
+        "rejuvenate",
+        "strengthen",
+        "enervate",
+        "uplift"
+      ],
+      "answer": "C",
+      "explanation": "Energize means to give energy or vitality, while enervate means to weaken or deprive of energy.",
+      "hasDiagram": false
+    },
+    {
+      "id": 49,
+      "text": "In a bag, the ratio of red marbles and green marbles is 7:3. If there are 24 green marbles in the bag, how many red marbles are there?",
+      "options": [
+        "35",
+        "54",
+        "56",
+        "63"
+      ],
+      "answer": "B",
+      "explanation": "To find the number of red marbles, we can set up a proportion: 7/3 = x/24, where x is the number of red marbles.",
+      "hasDiagram": false
+    },
+    {
+      "id": 50,
+      "text": "What is next in the sequence 5, 9, 15, 23, 33?",
+      "options": [
+        "45",
+        "43",
+        "41",
+        "39"
+      ],
+      "answer": "A",
+      "explanation": "The pattern of the sequence appears to be obtained by adding 4, 6, 8, 10, ... to the previous term.",
+      "hasDiagram": false
+    },
+    {
+      "id": 51,
+      "text": "The sum of two numbers is 100. Their ratio is 2:3. Find the larger number of the two.",
+      "options": [
+        "20",
+        "30",
+        "50",
+        "60"
+      ],
+      "answer": "D",
+      "explanation": "Let the two numbers be 2x and 3x. Then, 2x + 3x = 100, so 5x = 100, and x = 20. The larger number is 3x = 60.",
+      "hasDiagram": false
+    },
+    {
+      "id": 52,
+      "text": "BUTTRESS : WALL : : _______________",
+      "options": [
+        "column : pillar",
+        "philanthropist : charity",
+        "document : preamble",
+        "cream : lotion"
+      ],
+      "answer": "A",
+      "explanation": "A buttress is a support for a wall, so the relationship is between a support and the thing it supports.",
+      "hasDiagram": false
+    },
+    {
+      "id": 53,
+      "text": "Sixteen is 5% of what number?",
+      "options": [
+        "160",
+        "240",
+        "300",
+        "320"
+      ],
+      "answer": "D",
+      "explanation": "Let x be the number. Then, 5% of x is 16, so 0.05x = 16, and x = 320.",
+      "hasDiagram": false
+    },
+    {
+      "id": 54,
+      "text": "In a class of 40, Jane ranks 24th from the last. What is Jane’s position from the top?",
+      "options": [
+        "15th",
+        "16th",
+        "17th",
+        "18th"
+      ],
+      "answer": "C",
+      "explanation": "If Jane ranks 24th from the last, then she ranks (40 - 24 + 1) = 17th from the top.",
+      "hasDiagram": false
+    },
+    {
+      "id": 55,
+      "text": "Which of the following words is synonymous with the word unequivocal?",
+      "options": [
+        "vague",
+        "detached",
+        "clear",
+        "abrupt"
+      ],
+      "answer": "C",
+      "explanation": "Unequivocal means clear or unambiguous in meaning.",
+      "hasDiagram": false
+    },
+    {
+      "id": 56,
+      "text": "In a class of 48 students, there are twice as many girls as boys. How many boys are there in the class?",
+      "options": [
+        "15",
+        "16",
+        "24",
+        "32"
+      ],
+      "answer": "B",
+      "explanation": "Let the number of boys be x. Then, the number of girls is 2x. Since the total number of students is 48, x + 2x = 48, so 3x = 48, and x = 16.",
+      "hasDiagram": false
+    },
+    {
+      "id": 57,
+      "text": "The sum of the reciprocal of a number and 5 is 8. What is the number?",
+      "options": [
+        "3",
+        "1/3",
+        "4",
+        "1/8"
+      ],
+      "answer": "B",
+      "explanation": "Let the number be x. Then, 1/x + 5 = 8, so 1/x = 3, and x = 1/3.",
+      "hasDiagram": false
+    },
+    {
+      "id": 58,
+      "text": "Lucy mixed 1/2 of a cup of cold water and 1/3 of a cup of hot water in a bowl. How much water did she mix?",
+      "options": [
+        "5/6",
+        "3/4",
+        "2/5",
+        "7/8"
+      ],
+      "answer": "A",
+      "explanation": "To find the total amount of water, we need to find a common denominator, which is 6. Then, 1/2 = 3/6 and 1/3 = 2/6, so the total amount of water is 3/6 + 2/6 = 5/6.",
+      "hasDiagram": false
+    },
+    {
+      "id": 59,
+      "text": "Which word does NOT have a similar meaning to the word shapeless?",
+      "options": [
+        "apparent",
+        "nebulous",
+        "amorphous",
+        "unstructured"
+      ],
+      "answer": "A",
+      "explanation": "Shapeless means lacking a definite or distinct form, which is similar to nebulous, amorphous, and unstructured, but not apparent.",
+      "hasDiagram": false
+    },
+    {
+      "id": 60,
+      "text": "A bus leaves a city traveling at a rate of 60 km/h. Find the distance traveled by the bus in 2 hours.",
+      "options": [
+        "60 km",
+        "120 km",
+        "150 km",
+        "180 km"
+      ],
+      "answer": "B",
+      "explanation": "Distance = speed * time, so distance = 60 km/h * 2 h = 120 km.",
+      "hasDiagram": false
+    },
+    {
+      "id": 61,
+      "text": "If a supply of feeds can last for 4 days for 12 pigs, how long would the supply last if there were twice as many pigs?",
+      "options": [
+        "2 days",
+        "5 days",
+        "6 days",
+        "8 days"
+      ],
+      "answer": "A",
+      "explanation": "If the supply lasts for 4 days for 12 pigs, it will last for 2 days for 24 pigs, since the number of pigs is twice as many.",
+      "hasDiagram": false
+    },
+    {
+      "id": 62,
+      "text": "If 10 men can do a job in 6 hours, how long will it take 5 men to do the same job?",
+      "options": [
+        "3 hours",
+        "10 hours",
+        "12 hours",
+        "15 hours"
+      ],
+      "answer": "C",
+      "explanation": "If 10 men can do the job in 6 hours, then 5 men can do the job in 10 * 6 / 5 = 12 hours.",
+      "hasDiagram": false
+    }
+  ]
+}

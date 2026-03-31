@@ -1,0 +1,48 @@
+{
+  "id": "ustet-english-2015",
+  "name": "Ustet English 2015",
+  "subject": "English",
+  "durationMinutes": 60,
+  "totalQuestions": 3,
+  "questions": [
+    {
+      "id": 1,
+      "text": "The writer in the British journal might feel that the research and development of CB system should be",
+      "options": [
+        "encouraged and expanded",
+        "conducted only by the major powers",
+        "immediately halted",
+        "maintained as it is now"
+      ],
+      "answer": "A",
+      "explanation": "The writer likely supports the development of CB systems, given the context of the article.",
+      "hasDiagram": false
+    },
+    {
+      "id": 2,
+      "text": "The justification for the United States’ participation in CB warfare programs is mainly due to the",
+      "options": [
+        "need for undetectable weaponry",
+        "still untapped knowledge in that field",
+        "costliness of the nuclear programs",
+        "Soviet Union’s having such a program"
+      ],
+      "answer": "D",
+      "explanation": "The Soviet Union's CB program likely serves as a justification for the US to participate in CB warfare programs.",
+      "hasDiagram": false
+    },
+    {
+      "id": 3,
+      "text": "The main purpose of this article is to",
+      "options": [
+        "show the difficulties involved in stopping CB warfare programs",
+        "explain the cost of CB warfare",
+        "discuss alternatives to CB warfare",
+        "chronicle the history of CB warfare"
+      ],
+      "answer": "A",
+      "explanation": "The article likely aims to highlight the challenges in stopping CB warfare programs, given the context.",
+      "hasDiagram": false
+    }
+  ]
+}

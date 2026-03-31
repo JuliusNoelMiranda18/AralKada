@@ -1,0 +1,217 @@
+{
+  "id": "upcat-language",
+  "name": "Upcat Language",
+  "subject": "Language",
+  "durationMinutes": 60,
+  "totalQuestions": 16,
+  "questions": [
+    {
+      "id": 1,
+      "text": "In the past couple of years, astronomers have discovered more than 80 colossal planets, most of them as large or larger than Jupiter, which circle other stars.",
+      "options": [
+        "most of them as large or larger than Jupiter and circling",
+        "most of them at least as large as Jupiter, circling",
+        "mostly at least as large as Jupiter, which circle",
+        "mostly as large or larger than Jupiter, circling"
+      ],
+      "answer": "C",
+      "explanation": "The correct phrase is 'mostly at least as large as Jupiter, which circle', as it correctly describes the size of the planets and their action of circling other stars.",
+      "hasDiagram": false
+    },
+    {
+      "id": 2,
+      "text": "Many politicians avoid addressing issues by giving succinct answers.",
+      "options": [
+        "unclear",
+        "complicated",
+        "wordy",
+        "brief"
+      ],
+      "answer": "D",
+      "explanation": "The word 'succinct' means brief and to the point, so the correct answer is 'brief'.",
+      "hasDiagram": false
+    },
+    {
+      "id": 3,
+      "text": "Mrs. Santos is very happy because her pupil who used to be very vociferous doesn’t talk much anymore.",
+      "options": [
+        "lazy",
+        "active",
+        "talkative",
+        "sleepy"
+      ],
+      "answer": "C",
+      "explanation": "The word 'vociferous' means talkative or loud, so the correct answer is 'talkative'.",
+      "hasDiagram": false
+    },
+    {
+      "id": 4,
+      "text": "Pedagogical institutions, including kindergartens, grade schools, high schools, and colleges, require government support to function efficiently.",
+      "options": [
+        "helpful",
+        "recognized",
+        "obliging",
+        "teaching"
+      ],
+      "answer": "D",
+      "explanation": "The word 'pedagogical' refers to teaching or education, so the correct answer is 'teaching'.",
+      "hasDiagram": false
+    },
+    {
+      "id": 5,
+      "text": "He was so parsimonious that he refused to give his own children the few pesos they needed to buy pencils for school. It truly hurts him to part with his money.",
+      "options": [
+        "sluggish",
+        "thrifty",
+        "tightfisted",
+        "indifferent"
+      ],
+      "answer": "C",
+      "explanation": "The word 'parsimonious' means being stingy or frugal, so the correct answer is 'tightfisted'.",
+      "hasDiagram": false
+    },
+    {
+      "id": 6,
+      "text": "Because the conflagration was aided by strong wind, it was so destructive that every tree in the forest was completely burned to the ground.",
+      "options": [
+        "fire",
+        "heat",
+        "drought",
+        "summer"
+      ],
+      "answer": "A",
+      "explanation": "The word 'conflagration' refers to a large fire, so the correct answer is 'fire'.",
+      "hasDiagram": false
+    },
+    {
+      "id": 7,
+      "text": "Mahapdi na ang sikmura ng kaawa-awang pulubi.",
+      "options": [
+        "nagugutom",
+        "nilalamig",
+        "nasasaktan",
+        "natutuwa"
+      ],
+      "answer": "A",
+      "explanation": "The phrase 'Mahapdi na ang sikmura' means 'his stomach is aching', which is often due to hunger, so the correct answer is 'nagugutom'.",
+      "hasDiagram": false
+    },
+    {
+      "id": 8,
+      "text": "Di makabasag-pinggan ang dalagang nakilala niya kanina.",
+      "options": [
+        "mahinahon",
+        "matalino",
+        "tahimik",
+        "mahinhin"
+      ],
+      "answer": "D",
+      "explanation": "The phrase 'Di makabasag-pinggan' is an idiom that means 'not prone to breaking or causing trouble', which is often used to describe someone who is gentle or delicate, so the correct answer is 'mahinhin'.",
+      "hasDiagram": false
+    },
+    {
+      "id": 9,
+      "text": "Sa isang taon ay masasaksihan na natin ang isang mahabang dulang.",
+      "options": [
+        "pagdiriwang",
+        "kasalan",
+        "kaguluhan",
+        "imbitasyon"
+      ],
+      "answer": "A",
+      "explanation": "The phrase 'mahabang dulang' is not a common phrase, but based on the context, it seems to refer to a celebration or festivities, so the correct answer is 'pagdiriwang'.",
+      "hasDiagram": false
+    },
+    {
+      "id": 10,
+      "text": "Ang kanyang ama ay bibisitahin nila sa ika-1 ng Nobyembre sapagkat pantay ang kanyang mga paa.",
+      "options": [
+        "may sakit",
+        "hindi na nakakalakad",
+        "patay na",
+        "lumpo"
+      ],
+      "answer": "C",
+      "explanation": "The phrase 'pantay ang kanyang mga paa' is an idiom that means 'his feet are level', which is often used to describe someone who has passed away, so the correct answer is 'patay na'.",
+      "hasDiagram": false
+    },
+    {
+      "id": 11,
+      "text": "Naniningalang-pugad na naman si Celso sa aming kaakit-akit na kapit-bahay.",
+      "options": [
+        "nanliligaw",
+        "naglilinis",
+        "nagmamahal",
+        "nagreregalo"
+      ],
+      "answer": "A",
+      "explanation": "The phrase 'naniningalang-pugad' is an idiom that means 'to court or woo someone', so the correct answer is 'nanliligaw'.",
+      "hasDiagram": false
+    },
+    {
+      "id": 12,
+      "text": "Ang pagtulong sa kapwa ay ang tunay niyang pakay.",
+      "options": [
+        "Salamat sa pagtulong mo, kaibigan!",
+        "Tumulong siya ng taos sa kanyang puso.",
+        "Pagtulong ang pinagkakaabalahan niya.",
+        "Pinili niya ang pagtulong sa mga nangangailangan."
+      ],
+      "answer": "D",
+      "explanation": "The sentence 'Ang pagtulong sa kapwa ay ang tunay niyang pakay' means 'Helping others is his true intention', which is similar in meaning to 'Pinili niya ang pagtulong sa mga nangangailangan', so the correct answer is 'D'.",
+      "hasDiagram": false
+    },
+    {
+      "id": 13,
+      "text": "Si Luis ay ooperahan sa Martes.",
+      "options": [
+        "sa makalawa ng linggong ito",
+        "sa ospital",
+        "sa pamamagitan ng anesthesia",
+        "sa loob ng isang araw"
+      ],
+      "answer": "A",
+      "explanation": "The sentence 'Si Luis ay ooperahan sa Martes' means 'Luis will have an operation on Tuesday', which is similar in meaning to 'sa makalawa ng linggong ito', so the correct answer is 'A'.",
+      "hasDiagram": false
+    },
+    {
+      "id": 14,
+      "text": "Isang kabalintunaan ang pagsasagawa ng paglusob sa kuta nila.",
+      "options": [
+        "ng kunin niya",
+        "ng pag-eehersisyo",
+        "ng ilayo niya",
+        "ng mas matindi"
+      ],
+      "answer": "D",
+      "explanation": "The phrase 'kabalintunaan' means 'a contradictory or ironic situation', and 'paglusob sa kuta' means 'to attack their fort', so the correct answer is 'ng mas matindi', which means 'of a more intense attack'.",
+      "hasDiagram": false
+    },
+    {
+      "id": 15,
+      "text": "Magaling ba siyang manunulat?",
+      "options": [
+        "magaling sumulat",
+        "magaling na magaling",
+        "magaling na mananayaw",
+        "tunay na magaling magsalita"
+      ],
+      "answer": "A",
+      "explanation": "The sentence 'Magaling ba siyang manunulat?' means 'Is he a good writer?', which is similar in meaning to 'magaling sumulat', so the correct answer is 'A'.",
+      "hasDiagram": false
+    },
+    {
+      "id": 16,
+      "text": "Lubhang kaakit-akit ang pandekorasyong binili niya kahapon sa mall.",
+      "options": [
+        "iniwan sa silid",
+        "sa mga dalaga",
+        "maganda sa paningin",
+        "para sa bayan"
+      ],
+      "answer": "C",
+      "explanation": "The phrase 'kaakit-akit' means 'attractive or appealing', and 'pandekorasyong' means 'decoration', so the correct answer is 'maganda sa paningin', which means 'beautiful to look at'.",
+      "hasDiagram": false
+    }
+  ]
+}

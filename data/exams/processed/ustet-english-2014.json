@@ -1,0 +1,399 @@
+{
+  "id": "ustet-english-2014",
+  "name": "Ustet English 2014",
+  "subject": "English",
+  "durationMinutes": 60,
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "text": "Felix's hobbies include jogging, swimming, and ________.",
+      "options": [
+        "to climb mountains",
+        "climb mountains",
+        "to climb",
+        "climbing mountains"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer is 'climb mountains' because it is the most grammatically correct option to complete the sentence.",
+      "hasDiagram": false
+    },
+    {
+      "id": 2,
+      "text": "Mr. Delos Reyes requests that someone _________ the data by fax immediately.",
+      "options": [
+        "sent",
+        "sends",
+        "send",
+        "to send"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer is 'sends' because it is the most grammatically correct option to complete the sentence in the context of a request.",
+      "hasDiagram": false
+    },
+    {
+      "id": 3,
+      "text": "The concert will begin ________ fifteen minutes.",
+      "options": [
+        "in",
+        "on",
+        "with",
+        "about"
+      ],
+      "answer": "A",
+      "explanation": "The correct answer is 'in' because it is the most grammatically correct option to indicate a time frame.",
+      "hasDiagram": false
+    },
+    {
+      "id": 4,
+      "text": "You were ____________ the Cebu office before 2 p.m.",
+      "options": [
+        "suppose call",
+        "supposed to call",
+        "supposed calling",
+        "supposed call"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer is 'supposed to call' because it is the most grammatically correct option to complete the sentence.",
+      "hasDiagram": false
+    },
+    {
+      "id": 5,
+      "text": "I have only a ________ Christmas cards left to write.",
+      "options": [
+        "few",
+        "fewer",
+        "less",
+        "little"
+      ],
+      "answer": "C",
+      "explanation": "The correct answer is 'less' because it is used for uncountable nouns, but in this context, 'few' or 'fewer' could also be considered correct depending on the intended meaning.",
+      "hasDiagram": false
+    },
+    {
+      "id": 6,
+      "text": "Each of the Olympic athletes ____________ for months, even years.",
+      "options": [
+        "have been training",
+        "were training",
+        "has been training",
+        "been training"
+      ],
+      "answer": "A",
+      "explanation": "The correct answer is 'have been training' because it is the most grammatically correct option to complete the sentence in the context of multiple athletes.",
+      "hasDiagram": false
+    },
+    {
+      "id": 7,
+      "text": "When I graduate from high school next March, I ______________ a student here for four years.",
+      "options": [
+        "will have been",
+        "have been",
+        "has been",
+        "will have"
+      ],
+      "answer": "A",
+      "explanation": "The correct answer is 'will have been' because it is the most grammatically correct option to complete the sentence in the context of future perfect tense.",
+      "hasDiagram": false
+    },
+    {
+      "id": 8,
+      "text": "Mrs. Chun _________ rather not invest that money in the stock market.",
+      "options": [
+        "has to",
+        "could",
+        "would",
+        "must"
+      ],
+      "answer": "C",
+      "explanation": "The correct answer is 'would' because it is the most grammatically correct option to express preference.",
+      "hasDiagram": false
+    },
+    {
+      "id": 9,
+      "text": "No sooner ________ I shut the door, when the telephone rang.",
+      "options": [
+        "have",
+        "did",
+        "will",
+        "had"
+      ],
+      "answer": "D",
+      "explanation": "The correct answer is 'had' because it is the most grammatically correct option to complete the sentence in the context of past perfect tense.",
+      "hasDiagram": false
+    },
+    {
+      "id": 10,
+      "text": "______ any one object if I turn the air-conditioner down?",
+      "options": [
+        "Do",
+        "Does",
+        "Did",
+        "Doing"
+      ],
+      "answer": "A",
+      "explanation": "The correct answer is 'Do' because it is the most grammatically correct option to complete the sentence in the context of a question.",
+      "hasDiagram": false
+    },
+    {
+      "id": 11,
+      "text": "An eagle, if pressed for food, might ______ a small baby that had been left in the open unprotected, but such an opportunity must occur very rarely.",
+      "options": [
+        "carry off",
+        "carry through",
+        "carry on with",
+        "carry out"
+      ],
+      "answer": "A",
+      "explanation": "The correct answer is 'carry off' because it is the most grammatically correct option to complete the sentence in the context of taking something away.",
+      "hasDiagram": false
+    },
+    {
+      "id": 12,
+      "text": "Middle Eastern restaurants often have a way of whisking you away to a far-off land of belly dancers, exotic spices, and _______ drink.",
+      "options": [
+        "incriminating",
+        "intimidating",
+        "intoxicating",
+        "instigating"
+      ],
+      "answer": "C",
+      "explanation": "The correct answer is 'intoxicating' because it is the most grammatically correct option to complete the sentence in the context of describing a type of drink.",
+      "hasDiagram": false
+    },
+    {
+      "id": 13,
+      "text": "The little old lady down the street was taken ______ by a scam artist. He got more than $5000 from her!",
+      "options": [
+        "off",
+        "over",
+        "in",
+        "on"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer is 'in' because it is the most grammatically correct option to complete the sentence in the context of being deceived.",
+      "hasDiagram": false
+    },
+    {
+      "id": 14,
+      "text": "It is already 3 o'clock. Can you _____ time to catch the bus?",
+      "options": [
+        "have enough",
+        "have it in",
+        "make in",
+        "make it in"
+      ],
+      "answer": "D",
+      "explanation": "The correct answer is 'make it in' because it is the most grammatically correct option to complete the sentence in the context of arriving on time.",
+      "hasDiagram": false
+    },
+    {
+      "id": 15,
+      "text": "Ireland was part of the UK, _____?",
+      "options": [
+        "didn't it",
+        "wasn't it",
+        "hasn't it",
+        "weren't it"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer is 'wasn't it' because it is the most grammatically correct option to complete the sentence in the context of a question tag.",
+      "hasDiagram": false
+    },
+    {
+      "id": 16,
+      "text": "The New York police were very anxious _____ about the crime.",
+      "options": [
+        "more to learn",
+        "learn more",
+        "to more learn",
+        "to learn more"
+      ],
+      "answer": "D",
+      "explanation": "The correct answer is 'to learn more' because it is the most grammatically correct option to complete the sentence in the context of wanting more information.",
+      "hasDiagram": false
+    },
+    {
+      "id": 17,
+      "text": "The sink in the locker room tends to _____.",
+      "options": [
+        "flow",
+        "overflow",
+        "flow over",
+        "over flowing"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer is 'overflow' because it is the most grammatically correct option to complete the sentence in the context of describing a common issue.",
+      "hasDiagram": false
+    },
+    {
+      "id": 18,
+      "text": "We saw _____ wild animals while on vacation.",
+      "options": [
+        "quite a few",
+        "quite much",
+        "quite many",
+        "quite some"
+      ],
+      "answer": "A",
+      "explanation": "The correct answer is 'quite a few' because it is the most grammatically correct option to complete the sentence in the context of describing a quantity.",
+      "hasDiagram": false
+    },
+    {
+      "id": 19,
+      "text": "Gene's house is _____ the hair salon. Do you think you can find it?",
+      "options": [
+        "along",
+        "near to",
+        "against",
+        "next to"
+      ],
+      "answer": "D",
+      "explanation": "The correct answer is 'next to' because it is the most grammatically correct option to complete the sentence in the context of describing a location.",
+      "hasDiagram": false
+    },
+    {
+      "id": 20,
+      "text": "The ski resorts are usually crowded. There are many people _____ skiing.",
+      "options": [
+        "enjoy",
+        "that enjoying",
+        "who enjoy",
+        "who enjoying"
+      ],
+      "explanation": "The correct answer is 'who enjoy' because it is the most grammatically correct option to complete the sentence in the context of describing people's activities.",
+      "hasDiagram": false,
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "text": "Colleen swimmmed one hundred laps in the Rizal Olympic pool yesterday.",
+      "options": [
+        "swim",
+        "swam",
+        "swims",
+        "swimming"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer is 'swam' because it is the most grammatically correct option to complete the sentence in the context of past tense.",
+      "hasDiagram": false
+    },
+    {
+      "id": 22,
+      "text": "Mr. Olsen is telephoning a American Red Cross for help.",
+      "options": [
+        "an",
+        "a",
+        "the",
+        "no article"
+      ],
+      "answer": "A",
+      "explanation": "The correct answer is 'an' because it is the most grammatically correct option to complete the sentence in the context of using an indefinite article before a noun starting with a vowel sound.",
+      "hasDiagram": false
+    },
+    {
+      "id": 23,
+      "text": "Jean-Pierre will spend his long-awaited vacation either in Singapore nor the Bahamas.",
+      "options": [
+        "or",
+        "and",
+        "but",
+        "so"
+      ],
+      "answer": "A",
+      "explanation": "The correct answer is 'or' because it is the most grammatically correct option to complete the sentence in the context of presenting alternatives.",
+      "hasDiagram": false
+    },
+    {
+      "id": 24,
+      "text": "When we have reached our vacation, we plan to spend three days scuba diving down the reef.",
+      "options": [
+        "on",
+        "at",
+        "in",
+        "during"
+      ],
+      "answer": "C",
+      "explanation": "The correct answer is 'on' because it is the most grammatically correct option to complete the sentence in the context of describing a location or a period of time, however 'in' could also be considered correct depending on the intended meaning.",
+      "hasDiagram": false
+    },
+    {
+      "id": 25,
+      "text": "Osmond was expressing his reluctant when the other boys asked him to join them tomorrow.",
+      "options": [
+        "reluctance",
+        "reluctant",
+        "reluctantly",
+        "reluctancy"
+      ],
+      "answer": "A",
+      "explanation": "The correct answer is 'reluctance' because it is the most grammatically correct option to complete the sentence in the context of describing a feeling or attitude.",
+      "hasDiagram": false
+    },
+    {
+      "id": 26,
+      "text": "As usual, Roxanne was slow in expressing the opinion on the matter of the RH Bill",
+      "options": [
+        "about",
+        "on",
+        "at",
+        "in"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer is 'on' because it is the most grammatically correct option to complete the sentence in the context of describing a topic or subject.",
+      "hasDiagram": false
+    },
+    {
+      "id": 27,
+      "text": "We were fortunate enough to visit the Grand Canyon. It has much beautiful sceneries",
+      "options": [
+        "many",
+        "much",
+        "a lot of",
+        "lots of"
+      ],
+      "answer": "A",
+      "explanation": "The correct answer is 'many' because it is the most grammatically correct option to complete the sentence in the context of describing countable nouns.",
+      "hasDiagram": false
+    },
+    {
+      "id": 28,
+      "text": "Contrary to popular belief, a rabbit is not a kind of rodent; rather; it is a different species.",
+      "options": [
+        "but",
+        "or",
+        "so",
+        "and"
+      ],
+      "answer": "A",
+      "explanation": "The correct answer is 'but' because it is the most grammatically correct option to complete the sentence in the context of presenting a contrast.",
+      "hasDiagram": false
+    },
+    {
+      "id": 29,
+      "text": "Neither the children nor Teacher Sophia wish to go to the Clown party in the afternoon.",
+      "options": [
+        "wishes",
+        "wish",
+        "wishing",
+        "to wish"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer is 'wish' because it is the most grammatically correct option to complete the sentence in the context of describing a plural subject.",
+      "hasDiagram": false
+    },
+    {
+      "id": 30,
+      "text": "If it were for the shortcomings of the administration, the team would have won the award.",
+      "options": [
+        "was",
+        "were",
+        "are",
+        "is"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer is 'were' because it is the most grammatically correct option to complete the sentence in the context of a conditional sentence.",
+      "hasDiagram": false
+    }
+  ]
+}

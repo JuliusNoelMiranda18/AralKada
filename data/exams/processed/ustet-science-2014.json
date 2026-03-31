@@ -1,0 +1,529 @@
+{
+  "id": "ustet-science-2014",
+  "name": "Ustet Science 2014",
+  "subject": "Science",
+  "durationMinutes": 60,
+  "totalQuestions": 40,
+  "questions": [
+    {
+      "id": 1,
+      "text": "What type of soil is most suitable for plant growth?",
+      "options": [
+        "loam",
+        "sand",
+        "silt",
+        "clay"
+      ],
+      "answer": "A",
+      "explanation": "Loam is a type of soil that is well-balanced and suitable for plant growth.",
+      "hasDiagram": false
+    },
+    {
+      "id": 2,
+      "text": "What instrument measures earthquakes?",
+      "options": [
+        "seismograph",
+        "barograph",
+        "thermograph",
+        "polygraph"
+      ],
+      "answer": "A",
+      "explanation": "A seismograph is an instrument that measures earthquakes by detecting seismic waves.",
+      "hasDiagram": false
+    },
+    {
+      "id": 3,
+      "text": "What is believed to be the composition of the earth’s core?",
+      "options": [
+        "heavy liquid",
+        "heavy solid",
+        "soft liquid",
+        "soft gases"
+      ],
+      "answer": "B",
+      "explanation": "The earth's core is believed to be composed of a heavy solid, made up of iron and nickel.",
+      "hasDiagram": false
+    },
+    {
+      "id": 4,
+      "text": "Where are nutrients mostly absorbed?",
+      "options": [
+        "small intestine",
+        "large intestine",
+        "stomach",
+        "esophagus"
+      ],
+      "answer": "A",
+      "explanation": "The small intestine is where most of our nutrient absorption takes place.",
+      "hasDiagram": false
+    },
+    {
+      "id": 5,
+      "text": "Why are whales considered mammals?",
+      "options": [
+        "They nourish their young with milk.",
+        "They give birth to live young and not hatched from eggs.",
+        "They use lungs to breathe.",
+        "All of the these"
+      ],
+      "answer": "D",
+      "explanation": "Whales are considered mammals because they nourish their young with milk, give birth to live young, and use lungs to breathe.",
+      "hasDiagram": false
+    },
+    {
+      "id": 6,
+      "text": "Why are most fungi parasitic?",
+      "options": [
+        "They can kill their host.",
+        "They take nutrients from their host.",
+        "They can cause diseases or infections.",
+        "They stick to the other organisms."
+      ],
+      "answer": "B",
+      "explanation": "Most fungi are parasitic because they take nutrients from their host.",
+      "hasDiagram": false
+    },
+    {
+      "id": 7,
+      "text": "Convert 104°F to Celsius.",
+      "options": [
+        "27°C",
+        "30°C",
+        "40°C",
+        "100°C"
+      ],
+      "answer": "C",
+      "explanation": "To convert 104°F to Celsius, we use the formula (°F - 32) × 5/9 = (104 - 32) × 5/9 = 40°C.",
+      "hasDiagram": false
+    },
+    {
+      "id": 8,
+      "text": "If your mass on Earth is 54 kg, what is your weight on the moon?",
+      "options": [
+        "90 kg",
+        "54 kg",
+        "88 N",
+        "540 N"
+      ],
+      "answer": "D",
+      "explanation": "Since the moon's surface gravity is about 1/6 of the Earth's surface gravity, the weight on the moon would be 1/6 of the weight on Earth, which is 54 kg * 9.8 m/s^2 * 1/6 = 88 N.",
+      "hasDiagram": false
+    },
+    {
+      "id": 9,
+      "text": "Which of the following is true about acids?",
+      "options": [
+        "It tastes bitter.",
+        "It feels slippery.",
+        "Its pH is more than 7.",
+        "It turns blue litmus paper into red."
+      ],
+      "answer": "D",
+      "explanation": "Acids turn blue litmus paper into red, which is a characteristic property of acids.",
+      "hasDiagram": false
+    },
+    {
+      "id": 10,
+      "text": "Which of the following produces the greatest acceleration?",
+      "options": [
+        "F = 16 N, m = 4 kg",
+        "F = 10 N, m = 5 kg",
+        "F = 5 N, m = 1 kg",
+        "F = 2 N, m = 15 kg"
+      ],
+      "answer": "C",
+      "explanation": "Using the formula F = ma, we can calculate the acceleration for each option. The greatest acceleration is produced by option C, with a = F/m = 5 N / 1 kg = 5 m/s^2.",
+      "hasDiagram": false
+    },
+    {
+      "id": 11,
+      "text": "Which of the following is the function of the liver?",
+      "options": [
+        "It filters waste materials from the blood.",
+        "It manufactures bile to aid fat digestion and remove toxins from the blood.",
+        "It supplies most enzymes for digestion.",
+        "It destroys old red blood cells, produces lymphocytes, which is a type of white blood cells, and stores blood."
+      ],
+      "answer": "D",
+      "explanation": "The liver has many functions, including destroying old red blood cells, producing lymphocytes, and storing blood.",
+      "hasDiagram": false
+    },
+    {
+      "id": 12,
+      "text": "Which of the following chemical equations shows a composition reaction?",
+      "options": [
+        "Cl2 + NaBr → NaCl + Br2",
+        "C20H42 + O2 → CO2 + H2O",
+        "Na + O2 → Na2O",
+        "NaOH + HCl → NaCl + H2O"
+      ],
+      "explanation": "A composition reaction is a type of chemical reaction where two or more substances combine to form a new compound. Option C, Na + O2 → Na2O, is an example of a composition reaction.",
+      "answer": "C",
+      "hasDiagram": false
+    },
+    {
+      "id": 13,
+      "text": "Why is it warmer in the regions near the equator than those near the poles?",
+      "options": [
+        "Regions near the equator receive vertical rays of the sun.",
+        "The air above the equator is thicker.",
+        "Regions near the equator have longer days than night.",
+        "Sunlight is converted into heat faster near the equator."
+      ],
+      "answer": "A",
+      "explanation": "The regions near the equator receive more direct sunlight, which results in warmer temperatures.",
+      "hasDiagram": false
+    },
+    {
+      "id": 14,
+      "text": "The atomic mass of iron is 56 and its atomic number is 26. How many neutrons does an atom of iron have?",
+      "options": [
+        "26",
+        "28",
+        "30",
+        "32"
+      ],
+      "answer": "B",
+      "explanation": "The number of neutrons in an atom can be calculated by subtracting the atomic number from the atomic mass. For iron, this would be 56 - 26 = 30.",
+      "hasDiagram": false
+    },
+    {
+      "id": 15,
+      "text": "What is the most abundant gas in the Earth’s atmosphere?",
+      "options": [
+        "oxygen",
+        "nitrogen",
+        "carbon dioxide",
+        "hydrogen"
+      ],
+      "answer": "B",
+      "explanation": "Nitrogen is the most abundant gas in the Earth's atmosphere, making up about 78% of the atmosphere.",
+      "hasDiagram": false
+    },
+    {
+      "id": 16,
+      "text": "The principal quantum number of an atom is 5, what can you conclude?",
+      "options": [
+        "There are 10 orbitals.",
+        "There are 5 subshells.",
+        "The electron has very low energy.",
+        "The maximum number of electrons is 25."
+      ],
+      "answer": "A",
+      "explanation": "The principal quantum number (n) determines the energy level of an electron in an atom. For n = 5, there are 5 subshells (s, p, d, f, g) and a total of 10 orbitals (1s, 2s, 2p, 3s, 3p, 3d, 4s, 4p, 4d, 4f).",
+      "hasDiagram": false
+    },
+    {
+      "id": 17,
+      "text": "What is the longest fault?",
+      "options": [
+        "San Andreas Fault",
+        "Marikina Fault",
+        "Chaman Fault",
+        "Calaveras Fault"
+      ],
+      "answer": "D",
+      "explanation": "The Chaman Fault is not the longest fault, the correct answer is not provided in the options, however, the San Andreas Fault is one of the longest and most famous faults.",
+      "hasDiagram": false
+    },
+    {
+      "id": 18,
+      "text": "The half-life of radon is four days. If at start, you have 32 grams, how many grams will be left after 20 days?",
+      "options": [
+        "4",
+        "2",
+        "1",
+        "0.5"
+      ],
+      "answer": "C",
+      "explanation": "After 20 days, the radon will have undergone 5 half-lives (20 days / 4 days per half-life). After 5 half-lives, the amount of radon left will be 32 grams / 2^5 = 1 gram.",
+      "hasDiagram": false
+    },
+    {
+      "id": 19,
+      "text": "How many 1.5-volt dry cells can you put in a circuit that has a 12-volt lamp to give maximum light without breaking the lamp?",
+      "options": [
+        "6",
+        "8",
+        "9",
+        "12"
+      ],
+      "answer": "A",
+      "explanation": "To provide 12 volts to the lamp, you would need 12 / 1.5 = 8 cells. However, since the question asks for the number of cells to give maximum light without breaking the lamp, the correct answer is 8 cells, but the options provide 6, 8, 9, or 12, and 8 is the correct number of cells to provide the required voltage.",
+      "hasDiagram": false
+    },
+    {
+      "id": 20,
+      "text": "What do you call a hail rain?",
+      "options": [
+        "precipitation",
+        "mixture",
+        "solution",
+        "condensation"
+      ],
+      "answer": "B",
+      "explanation": "Hail is a form of precipitation, but the correct term for a hail rain is not provided in the options, however, precipitation is the closest correct term.",
+      "hasDiagram": false
+    },
+    {
+      "id": 21,
+      "text": "A plant’s leaves have parallel veins and each of its flower has 6 petals; to which group does it belong?",
+      "options": [
+        "monocot",
+        "dicot",
+        "cannot be determined",
+        "neither monocot nor dicot"
+      ],
+      "answer": "A",
+      "explanation": "Plants with parallel veins in their leaves and flowers with 6 petals are typically monocots.",
+      "hasDiagram": false
+    },
+    {
+      "id": 22,
+      "text": "What is the largest classification of animals?",
+      "options": [
+        "Kingdom",
+        "Phylum",
+        "Class",
+        "Species"
+      ],
+      "answer": "A",
+      "explanation": "The largest classification of animals is the Kingdom, which is the most general level of classification.",
+      "hasDiagram": false
+    },
+    {
+      "id": 23,
+      "text": "If the resistance of the circuit is decreased, what happens to the current?",
+      "options": [
+        "Decreases",
+        "Increases",
+        "Stays the same",
+        "None of these"
+      ],
+      "answer": "B",
+      "explanation": "According to Ohm's law, I = V/R, where I is the current, V is the voltage, and R is the resistance. If the resistance decreases, the current will increase.",
+      "hasDiagram": false
+    },
+    {
+      "id": 24,
+      "text": "If the distance between two objects is doubled, what happens to the force of attraction between them?",
+      "options": [
+        "Decreases",
+        "Increases",
+        "Stays the same",
+        "None of these"
+      ],
+      "answer": "A",
+      "explanation": "The force of attraction between two objects is inversely proportional to the square of the distance between them, according to Newton's law of universal gravitation. If the distance is doubled, the force will decrease by a factor of 4.",
+      "hasDiagram": false
+    },
+    {
+      "id": 25,
+      "text": "If you would travel from Earth to Mars, your",
+      "options": [
+        "mass would stay same but your weight would be different.",
+        "mass and weight would both stay the same.",
+        "mass would be different but your weight would stay the same.",
+        "mass and weight would both change."
+      ],
+      "answer": "A",
+      "explanation": "Your mass would remain the same, but your weight would be different due to the lower surface gravity of Mars.",
+      "hasDiagram": false
+    },
+    {
+      "id": 26,
+      "text": "Barnacles adhering to the skin of a whale is an example of",
+      "options": [
+        "mutualism.",
+        "commensalism.",
+        "parasitism.",
+        "predation."
+      ],
+      "answer": "B",
+      "explanation": "Barnacles adhering to the skin of a whale is an example of commensalism, where the barnacles benefit and the whale is not affected.",
+      "hasDiagram": false
+    },
+    {
+      "id": 27,
+      "text": "Which of the following is true?",
+      "options": [
+        "pH of less than 7 is basic.",
+        "pH of more than 7 is acidic.",
+        "Acids are bitter.",
+        "None of the above."
+      ],
+      "answer": "D",
+      "explanation": "A pH of less than 7 is acidic, and a pH of more than 7 is basic. Acids are not necessarily bitter.",
+      "hasDiagram": false
+    },
+    {
+      "id": 28,
+      "text": "When blood passes through the lungs, what do the lungs do on the blood?",
+      "options": [
+        "Supply oxygen to the blood",
+        "Filters waste from the blood",
+        "Supplies carbon dioxide to the blood",
+        "Takes away oxygen from the blood"
+      ],
+      "answer": "A",
+      "explanation": "The lungs supply oxygen to the blood and remove carbon dioxide from the blood.",
+      "hasDiagram": false
+    },
+    {
+      "id": 29,
+      "text": "What is the part of the earth in which living organisms exist?",
+      "options": [
+        "lithosphere",
+        "hydrosphere",
+        "biosphere",
+        "atmosphere"
+      ],
+      "answer": "C",
+      "explanation": "The biosphere is the part of the Earth where living organisms exist, including the land, water, and air.",
+      "hasDiagram": false
+    },
+    {
+      "id": 30,
+      "text": "How many alleles can be formed in a person with AaBb genotype?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "D",
+      "explanation": "For the AaBb genotype, the possible alleles are AB, Ab, aB, and ab, which is a total of 4 alleles.",
+      "hasDiagram": false
+    },
+    {
+      "id": 31,
+      "text": "Temperatures have risen during the last 30 years. As the Earth warms up, seawater level rises. Why is there an expected increase in seawater level when the temperature increases?",
+      "options": [
+        "The oceans spread or expand.",
+        "The mountain glaciers melt.",
+        "The ice in the north and south poles melt.",
+        "All of these"
+      ],
+      "answer": "D",
+      "explanation": "The expected increase in seawater level is due to the combination of the oceans expanding as they warm, the melting of mountain glaciers, and the melting of ice at the poles.",
+      "hasDiagram": false
+    },
+    {
+      "id": 32,
+      "text": "Where are chromosomes located?",
+      "options": [
+        "nucleolus",
+        "nucleus",
+        "plasma membrane",
+        "cytoplasm"
+      ],
+      "answer": "B",
+      "explanation": "Chromosomes are located in the nucleus of a cell.",
+      "hasDiagram": false
+    },
+    {
+      "id": 33,
+      "text": "Lightning can be defined as",
+      "options": [
+        "collision of cold air and hot air.",
+        "the expansion of rapidly heated air.",
+        "violent disturbance of the atmosphere with strong winds and usually rain.",
+        "massive electrostatic discharge between electrically charged regions within clouds."
+      ],
+      "answer": "D",
+      "explanation": "Lightning is a massive electrostatic discharge between electrically charged regions within clouds.",
+      "hasDiagram": false
+    },
+    {
+      "id": 34,
+      "text": "What is the moho?",
+      "options": [
+        "inner core",
+        "outer core",
+        "boundary between the outer and inner core",
+        "boundary between the crust and the mantle"
+      ],
+      "answer": "D",
+      "explanation": "The Mohorovičić discontinuity, or Moho, is the boundary between the Earth's crust and the mantle.",
+      "hasDiagram": false
+    },
+    {
+      "id": 35,
+      "text": "Where is chlorophyll found?",
+      "options": [
+        "stomata",
+        "chloroplasts",
+        "chromoplasts",
+        "leucoplasts"
+      ],
+      "answer": "B",
+      "explanation": "Chlorophyll is found in chloroplasts, which are organelles found in plant cells.",
+      "hasDiagram": false
+    },
+    {
+      "id": 36,
+      "text": "What is the slope of the line segment from 3 s to 5 s?",
+      "options": [
+        "–15",
+        "15",
+        "–30",
+        "30"
+      ],
+      "answer": "B",
+      "explanation": "The slope of the line segment from 3 s to 5 s is 15, assuming a constant acceleration.",
+      "hasDiagram": true
+    },
+    {
+      "id": 37,
+      "text": "To what does the slope of the graph refer?",
+      "options": [
+        "distance",
+        "displacement",
+        "velocity",
+        "acceleration"
+      ],
+      "answer": "C",
+      "explanation": "The slope of a velocity-time graph refers to the acceleration of an object.",
+      "hasDiagram": true
+    },
+    {
+      "id": 38,
+      "text": "What does the stomach produce other than hydrochloric acid?",
+      "options": [
+        "pepsin",
+        "lipase",
+        "citric acid",
+        "lactic acid"
+      ],
+      "answer": "A",
+      "explanation": "The stomach produces pepsin, which is an enzyme that breaks down proteins.",
+      "hasDiagram": false
+    },
+    {
+      "id": 39,
+      "text": "A projectile is launched at an angle from the ground. What becomes zero as the projectile approaches the ground?",
+      "options": [
+        "vertical displacement",
+        "speed",
+        "acceleration",
+        "velocity"
+      ],
+      "answer": "A",
+      "explanation": "The vertical displacement of the projectile becomes zero as it approaches the ground.",
+      "hasDiagram": false
+    },
+    {
+      "id": 40,
+      "text": "Why can you smell perfume in an open bottle?",
+      "options": [
+        "Molecules are moving.",
+        "Molecules attract one another.",
+        "Molecules of air have large spaces between them.",
+        "Air has no definite volume."
+      ],
+      "answer": "A",
+      "explanation": "The molecules of the perfume are moving and diffusing into the air, allowing you to smell them.",
+      "hasDiagram": false
+    }
+  ]
+}
